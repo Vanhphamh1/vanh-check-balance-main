@@ -1,0 +1,33 @@
+{
+  "name": "vanh-check-balance-main",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xftm/vanh-check-balance-main.git"
+  },
+  "keywords": [
+    "vanh-check-balance-main",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "vanhphamh1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xftm/vanh-check-balance-main/issues"
+  },
+  "homepage": "https://github.com/0xftm/vanh-check-balance-main#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "vanh-gas-convert-main": "1.0.0"
+
+  }
+}
